@@ -1,0 +1,11 @@
+img{
+    width: 600px;
+}
+
+body{
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    height: 100vh;
+    background-image: linear-gradient(to bottom, darkcyan, lightblue);
+    color: white;
+}
